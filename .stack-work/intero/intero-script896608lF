@@ -1,0 +1,3 @@
+:set prompt ""
+:set -fbyte-code
+:set prompt "\4 "

@@ -1,0 +1,19 @@
+[1 of 2] Compiling Main             ( /private/var/folders/lj/655x29_s66718hvw6bdcvy1w0000gn/T/stack94237/bytes-0.15.2/Setup.lhs, /private/var/folders/lj/655x29_s66718hvw6bdcvy1w0000gn/T/stack94237/bytes-0.15.2/.stack-work/dist/x86_64-osx/Cabal-1.24.2.0/setup/Main.o )
+
+/private/var/folders/lj/655x29_s66718hvw6bdcvy1w0000gn/T/stack94237/bytes-0.15.2/Setup.lhs:51:69: warning: [-Wdeprecations]
+    In the use of type constructor or class ‘InstalledPackageId’
+    (imported from Distribution.Package):
+    Deprecated: "Use UnitId instead"
+[2 of 2] Compiling StackSetupShim   ( /Users/tel/.stack/setup-exe-src/setup-shim-mPHDZzAJ.hs, /private/var/folders/lj/655x29_s66718hvw6bdcvy1w0000gn/T/stack94237/bytes-0.15.2/.stack-work/dist/x86_64-osx/Cabal-1.24.2.0/setup/StackSetupShim.o )
+Linking /private/var/folders/lj/655x29_s66718hvw6bdcvy1w0000gn/T/stack94237/bytes-0.15.2/.stack-work/dist/x86_64-osx/Cabal-1.24.2.0/setup/setup ...
+Configuring bytes-0.15.2...
+Building bytes-0.15.2...
+Preprocessing library bytes-0.15.2...
+[1 of 5] Compiling Data.Bytes.Signed ( src/Data/Bytes/Signed.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.2.0/build/Data/Bytes/Signed.o )
+[2 of 5] Compiling Data.Bytes.VarInt ( src/Data/Bytes/VarInt.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.2.0/build/Data/Bytes/VarInt.o )
+[3 of 5] Compiling Data.Bytes.Put   ( src/Data/Bytes/Put.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.2.0/build/Data/Bytes/Put.o )
+[4 of 5] Compiling Data.Bytes.Get   ( src/Data/Bytes/Get.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.2.0/build/Data/Bytes/Get.o )
+[5 of 5] Compiling Data.Bytes.Serial ( src/Data/Bytes/Serial.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.2.0/build/Data/Bytes/Serial.o )
+Installing library in
+/Users/tel/.stack/snapshots/x86_64-osx/lts-8.2/8.0.2/lib/x86_64-osx-ghc-8.0.2/bytes-0.15.2-CoxH8CioAOK8h6CcNcuhd
+Registering bytes-0.15.2...
